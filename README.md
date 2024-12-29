@@ -2,6 +2,7 @@
 
 This project focuses on the processing and analysis of date fruit images. The goal is to develop a machine learning model that can classify and analyze images of date fruits, identifying features such as quality, ripeness, and defects.
 
+
 ## Project Overview
 
 The project includes the following steps:
